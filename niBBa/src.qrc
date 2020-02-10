@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../login.png</file>
+        <file>../../ppp.png</file>
+        <file>../../crm/home.png</file>
+        <file>../../crm/afficher.png</file>
+        <file>../../crm/AFFECTER.png</file>
+        <file>../../crm/send.png</file>
+        <file>../../crm/FROM.png</file>
+        <file>../../crm/mdf.png</file>
+        <file>../../crm/SUP.png</file>
+        <file>../../crm/CHERCH.png</file>
+        <file>../../crm/ins.png</file>
+        <file>../../crm/tri.png</file>
+        <file>../../crm/rchv.png</file>
+        <file>../../crm/edit.png</file>
+        <file>../../crm/confirmer.png</file>
+        <file>../../crm/LOG.png</file>
+    </qresource>
+</RCC>
